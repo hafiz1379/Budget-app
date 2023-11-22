@@ -49,7 +49,7 @@ This project is inspired by the original design idea by Gregoire Vella on Behanc
 
 ## 💻 Live Demo  <a name="live-demo"></a>
 
-- Live-Demo: [4Budget](https://budget-app-y2fh.onrender.com)
+- Live-Demo: [Budget](https://budget-app-v4rw.onrender.com/)
 
 ## 🔭 Walk through video <a name="walk-through-video"></a>
 
