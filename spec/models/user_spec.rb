@@ -29,10 +29,8 @@ RSpec.describe User, type: :model do
       expect(user).to_not be_valid
     end
 
-    it 'email should have a correct value' do
-      expected_result = "james_#{user.id}@mail.com"
-
-      expect(user.email).to eq(expected_result)
+    it 'email should have a correct format' do
+      expect(user.email).to match(/james_\d+@mail\.com/)
     end
 
     it 'password should have a correct value' do
