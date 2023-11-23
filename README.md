@@ -47,15 +47,6 @@ This project is inspired by the original design idea by Gregoire Vella on Behanc
 - **Custom Categories:** Create custom spending categories tailored to your unique financial habits.
 - **Insightful Data:** Get a clear picture of your spending habits with insightful data and visualizations.
 
-
-## 💻 Live Demo  <a name="live-demo"></a>
-
-- Live-Demo: [4Budget](https://budget-app-y2fh.onrender.com)
-
-## 🔭 Walk through video <a name="walk-through-video"></a>
-
-<a href="https://drive.google.com/file/d/1al_LoWmebJ__iUgvkjBnNhILGaL_r9Na/view?usp=sharing">Video presentation of the Project</a>
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 💻 Getting Started  <a name="started"></a>
