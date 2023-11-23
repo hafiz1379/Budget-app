@@ -23,7 +23,6 @@
 ## 📖 About the Project <a name="about-project"></a>
 
 Welcome to Budget, your personal finance management application built with Ruby on Rails. This app helps you manage your expenses efficiently by organizing transactions into categories and providing insightful financial data. Keep track of your spending, create new categories, and add transactions with ease.
-
 This project is inspired by the original design idea by Gregoire Vella on Behance, and it is used under the Creative Commons license.
 
 ## 🛠 Built With <a name="built-with"></a>
